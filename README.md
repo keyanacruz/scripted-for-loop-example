@@ -1,0 +1,1 @@
+Work through problem 1 - 3. Enter your code in the "<script>" tags
